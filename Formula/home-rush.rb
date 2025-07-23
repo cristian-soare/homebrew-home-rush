@@ -1,8 +1,8 @@
 class HomeRush < Formula
   desc "A bot to monitor and interact with housing websites"
   homepage "https://github.com/cristian-soare/homebrew-home-rush"
-  url "https://github.com/cristian-soare/homebrew-home-rush/releases/download/v1.0.0/home-rush-macos"
-  sha256 "70678294210963aa56d0652a3d882a7cf75ad4b861177464b1f3dd9ca1021d99"
+  url "https://github.com/cristian-soare/homebrew-home-rush/releases/download/v1.0.1/home-rush-macos"
+  sha256 "7c9afd1511d89e4ca2dcc4c20816da90aa5a63e578bc0c807ec49c601c3f97d6"
   license "MIT"
 
   def install
